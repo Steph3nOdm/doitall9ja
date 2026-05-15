@@ -1,0 +1,82 @@
+{
+  "stage": "Stage 6 - Security & Access Testing",
+  "findings": [
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/admin",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/dashboard",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/account",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/profile",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/settings",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/orders",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "restricted-page-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/checkout",
+      "status": 200,
+      "evidence": "Restricted candidate path returned HTTP 200."
+    },
+    {
+      "category": "unauthenticated-api-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/api/user",
+      "status": 200,
+      "evidence": "API endpoint is reachable without auth."
+    },
+    {
+      "category": "unauthenticated-api-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/api/admin",
+      "status": 200,
+      "evidence": "API endpoint is reachable without auth."
+    },
+    {
+      "category": "unauthenticated-api-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/api/orders",
+      "status": 200,
+      "evidence": "API endpoint is reachable without auth."
+    },
+    {
+      "category": "unauthenticated-api-access",
+      "risk": "medium",
+      "url": "https://doitall9ja.com/api/settings",
+      "status": 200,
+      "evidence": "API endpoint is reachable without auth."
+    }
+  ]
+}

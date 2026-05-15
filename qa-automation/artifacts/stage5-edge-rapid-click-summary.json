@@ -1,0 +1,42 @@
+{
+  "stage": "Stage 5 - Edge Case Testing",
+  "checks": [
+    {
+      "page": "https://doitall9ja.com/",
+      "controlIndex": 0,
+      "stressClicks": 8,
+      "result": "ok"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "controlIndex": 1,
+      "stressClicks": 8,
+      "result": "ok"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "controlIndex": 2,
+      "stressClicks": 8,
+      "result": "ok"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "controlIndex": 3,
+      "stressClicks": 8,
+      "result": "ok"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "controlIndex": 4,
+      "stressClicks": 8,
+      "result": "ok"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "controlIndex": 5,
+      "stressClicks": 8,
+      "result": "skipped-dynamic-control"
+    }
+  ],
+  "issues": []
+}

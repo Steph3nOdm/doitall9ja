@@ -1,0 +1,175 @@
+{
+  "stage": "Stage 3 - Responsiveness & Cross-Browser",
+  "project": "firefox",
+  "checks": [
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-about.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-services.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-contact.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-blog.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-faq.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-privacy-policy.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-desktop-terms.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-about.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-services.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-contact.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-blog.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-faq.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-privacy-policy.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-tablet-terms.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-about.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-services.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-contact.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-blog.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-faq.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-privacy-policy.png"
+    },
+    {
+      "browser": "firefox",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\firefox-mobile-terms.png"
+    }
+  ],
+  "issues": []
+}

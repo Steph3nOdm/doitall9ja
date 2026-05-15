@@ -1,0 +1,9 @@
+{
+  "stage": "Stage 5 - Edge Case Testing",
+  "checks": [],
+  "pageErrors": [
+    "TypeError: 'text/html' is not a valid JavaScript MIME type.",
+    "TypeError: 'text/html' is not a valid JavaScript MIME type."
+  ],
+  "issues": []
+}

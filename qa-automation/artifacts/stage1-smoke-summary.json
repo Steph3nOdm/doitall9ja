@@ -1,0 +1,8 @@
+{
+  "stage": "Stage 1 - Smoke Test",
+  "baseURL": "https://doitall9ja.com",
+  "checked": 11,
+  "passed": 11,
+  "failed": 0,
+  "failures": []
+}

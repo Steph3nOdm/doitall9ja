@@ -1,0 +1,193 @@
+{
+  "stage": "Stage 4 - Performance Testing",
+  "thresholdMs": 13000,
+  "checkedPages": 8,
+  "results": [
+    {
+      "url": "https://doitall9ja.com/",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 786,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 3324
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 3545
+          }
+        ],
+        "slowAssets": [
+          {
+            "name": "https://doitall9ja.com/assets/index-tLVYF0Ab.js",
+            "initiatorType": "script",
+            "duration": 2305,
+            "transferSize": 193951
+          },
+          {
+            "name": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&h=1080&fit=crop",
+            "initiatorType": "css",
+            "duration": 1302,
+            "transferSize": 0
+          },
+          {
+            "name": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=1920&h=1080&fit=crop",
+            "initiatorType": "css",
+            "duration": 1280,
+            "transferSize": 0
+          },
+          {
+            "name": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+            "initiatorType": "img",
+            "duration": 917,
+            "transferSize": 0
+          },
+          {
+            "name": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop&crop=face",
+            "initiatorType": "img",
+            "duration": 865,
+            "transferSize": 0
+          },
+          {
+            "name": "https://doitall9ja.com/assets/index-DrR8-Kmt.css",
+            "initiatorType": "link",
+            "duration": 731,
+            "transferSize": 14552
+          },
+          {
+            "name": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+            "initiatorType": "img",
+            "duration": 684,
+            "transferSize": 0
+          },
+          {
+            "name": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+            "initiatorType": "img",
+            "duration": 660,
+            "transferSize": 0
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/about",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 282,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 398
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 629
+          }
+        ],
+        "slowAssets": []
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/services",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 192,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 279
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 522
+          }
+        ],
+        "slowAssets": []
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/contact",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 170,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 286
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 543
+          }
+        ],
+        "slowAssets": []
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/blog",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 224,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 416
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 656
+          }
+        ],
+        "slowAssets": []
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/faq",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 341,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 588
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 830
+          }
+        ],
+        "slowAssets": []
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/privacy-policy",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 223,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 422
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 731
+          }
+        ],
+        "slowAssets": []
+      }
+    },
+    {
+      "url": "https://doitall9ja.com/terms",
+      "metrics": {
+        "navigation": {
+          "ttfbMs": 240,
+          "domContentLoadedMs": 0,
+          "loadEventMs": 378
+        },
+        "paints": [
+          {
+            "name": "first-contentful-paint",
+            "startTime": 707
+          }
+        ],
+        "slowAssets": []
+      }
+    }
+  ],
+  "failures": []
+}

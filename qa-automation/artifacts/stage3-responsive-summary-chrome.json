@@ -1,0 +1,175 @@
+{
+  "stage": "Stage 3 - Responsiveness & Cross-Browser",
+  "project": "chrome",
+  "checks": [
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-about.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-services.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-contact.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-blog.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-faq.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-privacy-policy.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-desktop-terms.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-about.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-services.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-contact.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-blog.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-faq.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-privacy-policy.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-tablet-terms.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-about.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-services.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-contact.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-blog.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-faq.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-privacy-policy.png"
+    },
+    {
+      "browser": "chrome",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\chrome-mobile-terms.png"
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,6 @@
+{
+  "stage": "Stage 2 - Functional Testing",
+  "test": "api response validation",
+  "apiResults": [],
+  "failures": []
+}

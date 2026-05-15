@@ -1,0 +1,64 @@
+{
+  "targetUrl": "https://doitall9ja.com",
+  "environment": "staging",
+  "testDate": "<YYYY-MM-DD>",
+  "executedBy": "<name/team>",
+  "stages": [
+    {
+      "name": "Stage 1 - Smoke Test",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "name": "Stage 2 - Functional Testing",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "name": "Stage 3 - Responsiveness & Cross-Browser",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "name": "Stage 4 - Performance Testing",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "name": "Stage 5 - Edge Case Testing",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "name": "Stage 6 - Security & Access Testing",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": [],
+      "manualReviewRequired": true
+    },
+    {
+      "name": "Stage 7 - Logging & Monitoring",
+      "status": "PASS",
+      "issuesFound": 0,
+      "issues": [],
+      "recommendations": []
+    }
+  ],
+  "summary": {
+    "overallStatus": "PASS",
+    "totalIssues": 0,
+    "criticalIssues": 0,
+    "nextActions": []
+  }
+}

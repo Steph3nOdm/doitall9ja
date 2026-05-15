@@ -1,0 +1,21 @@
+{
+  "name": "doitall9ja-qa-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Modular Playwright QA automation suite for staged testing.",
+  "scripts": {
+    "install:browsers": "npx playwright install --with-deps",
+    "test:all": "npx playwright test",
+    "test:stage1": "npx playwright test tests/stage1.smoke.spec.js",
+    "test:stage2": "npx playwright test tests/stage2.functional.spec.js",
+    "test:stage3": "npx playwright test tests/stage3.responsive-crossbrowser.spec.js",
+    "test:stage4": "npx playwright test tests/stage4.performance.spec.js",
+    "test:stage5": "npx playwright test tests/stage5.edge-cases.spec.js",
+    "test:stage6": "npx playwright test tests/stage6.security-access.spec.js",
+    "report:merge": "node scripts/aggregate-results.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}

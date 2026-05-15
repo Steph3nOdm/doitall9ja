@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="24" fill="#111111"/>
+  <circle cx="128" cy="96" r="44" fill="#00C853" fill-opacity="0.25"/>
+  <path d="M128 150C90.4446 150 60 180.445 60 218H196C196 180.445 165.555 150 128 150Z" fill="#00C853" fill-opacity="0.25"/>
+  <text x="128" y="244" text-anchor="middle" fill="#00C853" font-family="Arial, sans-serif" font-size="20" font-weight="700">DIA</text>
+</svg>

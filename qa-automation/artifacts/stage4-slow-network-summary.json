@@ -1,0 +1,78 @@
+{
+  "stage": "Stage 4 - Performance Testing",
+  "profile": "simulated-slow-network",
+  "url": "https://doitall9ja.com/",
+  "metrics": {
+    "navigation": {
+      "ttfbMs": 573.5,
+      "domContentLoadedMs": 2400.4,
+      "loadEventMs": 2400.6
+    },
+    "paints": [
+      {
+        "name": "first-paint",
+        "startTime": 1708
+      },
+      {
+        "name": "first-contentful-paint",
+        "startTime": 2708
+      }
+    ],
+    "slowAssets": [
+      {
+        "name": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=1920&h=1080&fit=crop",
+        "initiatorType": "css",
+        "duration": 3850.6,
+        "transferSize": 324356
+      },
+      {
+        "name": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&h=1080&fit=crop",
+        "initiatorType": "css",
+        "duration": 3358.9,
+        "transferSize": 223617
+      },
+      {
+        "name": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+        "initiatorType": "img",
+        "duration": 1545,
+        "transferSize": 35424
+      },
+      {
+        "name": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "initiatorType": "img",
+        "duration": 1436.9,
+        "transferSize": 25822
+      },
+      {
+        "name": "https://doitall9ja.com/assets/index-tLVYF0Ab.js",
+        "initiatorType": "script",
+        "duration": 1436.2,
+        "transferSize": 193951
+      },
+      {
+        "name": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+        "initiatorType": "img",
+        "duration": 1419,
+        "transferSize": 26085
+      },
+      {
+        "name": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop&crop=face",
+        "initiatorType": "img",
+        "duration": 1388.3,
+        "transferSize": 25222
+      },
+      {
+        "name": "https://doitall9ja.com/assets/index-DrR8-Kmt.css",
+        "initiatorType": "link",
+        "duration": 801.9,
+        "transferSize": 14552
+      },
+      {
+        "name": "https://doitall9ja.com/favicon.ico",
+        "initiatorType": "other",
+        "duration": 419.3,
+        "transferSize": 489
+      }
+    ]
+  }
+}

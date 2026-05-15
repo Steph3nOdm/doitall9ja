@@ -1,0 +1,175 @@
+{
+  "stage": "Stage 3 - Responsiveness & Cross-Browser",
+  "project": "edge",
+  "checks": [
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-about.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-services.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-contact.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-blog.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-faq.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-privacy-policy.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-desktop-terms.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-about.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-services.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-contact.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-blog.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-faq.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-privacy-policy.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-tablet-terms.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-about.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-services.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-contact.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-blog.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-faq.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-privacy-policy.png"
+    },
+    {
+      "browser": "edge",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\edge-mobile-terms.png"
+    }
+  ],
+  "issues": []
+}

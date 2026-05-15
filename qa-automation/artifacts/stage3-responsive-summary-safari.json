@@ -1,0 +1,175 @@
+{
+  "stage": "Stage 3 - Responsiveness & Cross-Browser",
+  "project": "safari",
+  "checks": [
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-about.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-services.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-contact.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-blog.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-faq.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-privacy-policy.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "desktop",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-desktop-terms.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-about.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-services.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-contact.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-blog.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-faq.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-privacy-policy.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "tablet",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-tablet-terms.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/about",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-about.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/services",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-services.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/contact",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-contact.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/blog",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-blog.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/faq",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-faq.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/privacy-policy",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-privacy-policy.png"
+    },
+    {
+      "browser": "safari",
+      "viewport": "mobile",
+      "url": "https://doitall9ja.com/terms",
+      "issueCount": 0,
+      "screenshot": "artifacts\\screenshots\\safari-mobile-terms.png"
+    }
+  ],
+  "issues": []
+}

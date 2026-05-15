@@ -1,0 +1,128 @@
+{
+  "stage": "Stage 2 - Functional Testing",
+  "test": "click links and buttons",
+  "pagesScanned": 3,
+  "interactions": [
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/login",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "link-click",
+      "href": "https://doitall9ja.com/auth/signup",
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "button-click",
+      "index": 0,
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "button-click",
+      "index": 1,
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "button-click",
+      "index": 2,
+      "status": "clicked"
+    },
+    {
+      "page": "https://doitall9ja.com/",
+      "type": "button-click",
+      "index": 3,
+      "status": "clicked"
+    }
+  ],
+  "failures": []
+}
