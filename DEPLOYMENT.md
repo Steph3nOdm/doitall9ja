@@ -5,7 +5,7 @@
 Set these in your hosting platform's environment/settings panel:
 
 ```
-VITE_SUPABASE_URL=https://yzwkolfmlpnlnsziqlly.supabase.co
+VITE_SUPABASE_URL=https://your-project-id.supabase.co
 VITE_SUPABASE_ANON_KEY=<your anon key from Supabase dashboard>
 ```
 
